@@ -225,7 +225,7 @@
     position: relative;
   }
   
-  .nav .nav-link:hover {
+ .nav .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
     text-decoration: none;
   }
